@@ -1,5 +1,9 @@
-# mobile-responsive landing page made using bootstrap
+# Bootstrap Landing Page
 
-nice and responsive website built with html, css, bootstrap, and some javascript for the Map apo
+Nice and responsive website with an actual Map for address location
 
-live here: https://jhon-patiu.github.io/bootstrap-landing-page/
+# Tech used:
+HTML / CSS / Bootstrap / JavaScript
+
+# Live
+demo: https://jhon-patiu.github.io/bootstrap-landing-page/
